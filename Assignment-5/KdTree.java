@@ -7,7 +7,7 @@
  *  Execution              : java-algs4 KdTree
  *
  *  Purpose of the program : Implementation of KdTree for range search and nearest neighbor search
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+ *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
  *  Score                  : 99/100
 **********************************************************************************************************************/
 import edu.princeton.cs.algs4.Point2D;

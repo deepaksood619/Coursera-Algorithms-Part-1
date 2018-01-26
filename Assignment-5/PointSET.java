@@ -7,7 +7,7 @@
  *  Execution              : java-algs4 PointSET
  *
  *  Purpose of the program : Brute Force implementation for range search and nearest neighbor search
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+ *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
  *  Score                  : 99/100
 **********************************************************************************************************************/
 import edu.princeton.cs.algs4.SET;
